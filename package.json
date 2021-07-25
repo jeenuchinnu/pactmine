@@ -1,0 +1,7 @@
+{
+  "name": "pacttest",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  }
+}
